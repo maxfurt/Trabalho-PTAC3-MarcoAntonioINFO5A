@@ -1,0 +1,9 @@
+Professor
+
+Tem um bug que ta acontecendo no site que nao to conseguindo arrumar
+de jeito nenhum que ta acontecendo com a lista de cadastro do autor
+que sempre ta falando sobre a imagem e eu ja tentei de tudo desde de
+tentar apagar o cache ou apagar o codigo mas nao funcionou, mas o resto
+ta funcionando bem ,_,
+
+perdoa eu 
